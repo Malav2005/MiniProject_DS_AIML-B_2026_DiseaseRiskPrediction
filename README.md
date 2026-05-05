@@ -36,6 +36,18 @@ To build a machine learning model that can accurately classify whether a patient
 |------|----------|
 | Logistic Regression | ~75% |
 
+---
+
+## 📊 Visualizations
+
+### Class Distribution
+![Class Distribution](assets/class_distribution.png)
+
+### Correlation Heatmap
+![Correlation Heatmap](assets/correlation_heatmap.png)
+
+---
+
 ## 🧠 Key Insights
 - Zero values represented missing data
 - Preprocessing improved data quality
