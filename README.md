@@ -71,5 +71,8 @@ pip install -r requirements.txt
 - Add UI (Streamlit)
 - Deploy as web app
 
-## 👤 Author
-Aishwarya
+## Team Members
+- Malavika
+- Aishwarya
+
+
