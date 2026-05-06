@@ -75,4 +75,6 @@ pip install -r requirements.txt
 - Malavika
 - Aishwarya
 
+Project submitted as part of Data Science Mini Project.
+
 
